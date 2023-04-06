@@ -1,0 +1,4 @@
+gym==0.26.2
+gym-notices==0.0.8
+gym-taco-environments @ https://github.com/TacosSistemasComputacionalesULA-A2023/gym_taco_environments/archive/refs/heads/main.zip
+numpy==1.23.5
